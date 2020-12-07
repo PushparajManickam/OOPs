@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Abstraction",
+            "request": "launch",
+            "mainClass": "Abstraction",
+            "projectName": "OOPs_d20bbc6c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Encapsulation",
+            "request": "launch",
+            "mainClass": "Encapsulation",
+            "projectName": "OOPs_d20bbc6c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Child",
+            "request": "launch",
+            "mainClass": "Child",
+            "projectName": "OOPs_d20bbc6c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hierarchical",
+            "request": "launch",
+            "mainClass": "Hierarchical",
+            "projectName": "OOPs_d20bbc6c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MultiLevel",
+            "request": "launch",
+            "mainClass": "MultiLevel",
+            "projectName": "OOPs_d20bbc6c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SingleInheritance",
+            "request": "launch",
+            "mainClass": "SingleInheritance",
+            "projectName": "OOPs_d20bbc6c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Runtime",
+            "request": "launch",
+            "mainClass": "Runtime",
+            "projectName": "OOPs_d20bbc6c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CompileTime",
+            "request": "launch",
+            "mainClass": "CompileTime",
+            "projectName": "OOPs_d20bbc6c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Constructor",
+            "request": "launch",
+            "mainClass": "Constructor",
+            "projectName": "OOPs_d20bbc6c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Bike<OOPs_d20bbc6c>",
+            "request": "launch",
+            "mainClass": "Bike",
+            "projectName": "OOPs_d20bbc6c"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+//Hierarchical Inheritance
+public class Train extends Vehicle{
+    void print(){
+        System.out.println("Train is here!!!");
+    }
+}
